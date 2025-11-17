@@ -9,7 +9,7 @@ This repository contains a field-collected electric vehicle (EV) platoon dataset
 The dataset is hosted on Google Drive.
 
 👉 **Dataset Download Link:**  
-**[INSERT GOOGLE DRIVE LINK HERE]**
+**[https://drive.google.com/drive/folders/18L-EAKB0W2g7jJbiFH8zRxq0K0Toa28y?usp=sharing]**
 
 
 ---
