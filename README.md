@@ -1,15 +1,17 @@
 # 🚗 EV Platoon Dataset for OPD/TPD Car-Following Experiments
 
-This repository contains a field-collected electric vehicle (EV) platoon dataset designed to study **car-following behavior under One-Pedal Driving (OPD)**, **Two-Pedal Driving (TPD)**, and **Adaptive Cruise Control (ACC)** under controlled road conditions. The dataset includes synchronized 10 Hz GPS trajectories for one ICE lead vehicle and three following EVs, enabling detailed analysis of spacing, speed, acceleration, and platoon dynamics.
+> **📌 This paper has been accepted for presentation/publication at the Transportation Research Board (TRB) Annual Meeting 2026.**
 
----
+This repository contains a field-collected electric vehicle (EV) platoon dataset designed to study **car-following behavior under One-Pedal Driving (OPD)** and **Two-Pedal Driving (TPD)**, under both **Manual Driving** and **Adaptive Cruise Control (ACC)**.  
+The dataset includes synchronized 10 Hz GPS trajectories for one ICE lead vehicle and three following EVs.
+
 
 ## 📥 Download Dataset
 
 The dataset is hosted on Google Drive.
 
 👉 **Dataset Download Link:**  
-**[https://drive.google.com/drive/folders/18L-EAKB0W2g7jJbiFH8zRxq0K0Toa28y?usp=sharing]**
+**https://drive.google.com/drive/folders/18L-EAKB0W2g7jJbiFH8zRxq0K0Toa28y?usp=sharing**
 
 
 ---
@@ -108,6 +110,3 @@ To ensure repeatable oscillation patterns, the lead vehicle followed a predefine
 This structure enables downstream analysis of oscillation propagation, spacing stability, and pedal-mode-dependent behavior.
 
 ---
-
-## 📁 Repository Structure
-
