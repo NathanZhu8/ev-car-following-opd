@@ -1,6 +1,6 @@
 # 🚗 EV Platoon Dataset for OPD/TPD Car-Following Experiments
 
-> **📌 This paper has been accepted for presentation/publication at the Transportation Research Board (TRB) Annual Meeting 2026.**
+> **📌 This paper has been accepted for presentation at the Transportation Research Board (TRB) Annual Meeting 2026.**
 
 This repository contains a field-collected electric vehicle (EV) platoon dataset designed to study **car-following behavior under One-Pedal Driving (OPD)** and **Two-Pedal Driving (TPD)**, under both **Manual Driving** and **Adaptive Cruise Control (ACC)**.  
 The dataset includes synchronized 10 Hz GPS trajectories for one ICE lead vehicle and three following EVs.
